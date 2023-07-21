@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "title":"Cake",
+        "img":"cake.png",
+        "price" : "2.00"
+    },
+    {
+        "id":2,
+        "title":"Burger",
+        "img":"cheeseburger.png",
+        "price" : "1.30"
+    },
+    {
+        "id":3,
+        "title":"Coca Cola",
+        "img":"cocacola.png",
+        "price" : "1.20"
+    },
+    {
+        "id":4,
+        "title":"Hot Dog",
+        "img":"hotdog.png",
+        "price" : "1.70"
+    },
+    {
+        "id":5,
+        "title":"Pepsi",
+        "img":"pepsi.png",
+        "price" : "1.00"
+    },
+    {
+        "id":6,
+        "title":"Pizza",
+        "img":"pizza.png",
+        "price" : "5.00"
+    },
+    {
+        "id":7,
+        "title":"Dessert Cake",
+        "img":"dessertcake.png",
+        "price" : "1.00"
+    },
+    {
+        "id":9,
+        "title":"Sushi",
+        "img":"sushi.png",
+        "price" : "8.00"
+    },
+    {
+        "id":10,
+        "title":"Noodle Spasta",
+        "img":"noodlespasta.png",
+        "price" : "2.10"
+    }
+]
